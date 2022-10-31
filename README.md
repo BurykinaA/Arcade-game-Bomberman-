@@ -1,7 +1,7 @@
 # Course work
 ## _Arcade game “Bomberman”_
 
-<img src="https://github.com/BurykinaA/Arcade-game-Bomberman-/blob/main/start.PNG" width="150">
+<img src="https://github.com/BurykinaA/Arcade-game-Bomberman-/blob/main/start.PNG" width="200">
 
 This game is designed for one player and is made in the arcade genre. The player controls a character located on a randomly generated game location consisting of two types of blocks: destructible boxes and indestructible walls. The character itself is in the upper left corner of the map, can move on the grass. He can bet with a small gap during time bombs that explode after a fixed time and destroy boxes next to them. Thanks to the bombs, the player clears his way, as well as kills opponents (monsters). The character himself also takes damage if hit by the bomb. To pass to the next level you need to get to five   opponents and destroy them with the help of bombs that the player places on the level. The player receives one kill point. For each enemy destroyed by the character. The character has only 3 health points, which disappear if he falls into the zone of the explosion of the bomb left by him or stumbles upon the enemy. If all health points are lost, the player loses and the game restarts with first level. This will also reset the kill counter.
 
